@@ -23,7 +23,7 @@ np.random.seed(seed)
 
 # In[3]:
 
-
+#insert the dataset
 DATASET_PATH = 'C:/Users/Pratyusha/OneDrive/Desktop/CPS584-ProjectDatasetnew'
 
 data_dir = pathlib.Path(DATASET_PATH)
